@@ -28,7 +28,7 @@ jobs:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         push-branch: 'master'
         commit-message: 'This is an github action commit.'
-        name: lework
-        email: lework@yeah.net
+        name: kevin
+        email: lishu5566@gmail.com
         force-add: 'true'
         force-push: 'true'
